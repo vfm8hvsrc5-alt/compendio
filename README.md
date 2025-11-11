@@ -13,19 +13,19 @@ I miei recapiti *classici* sono legati al mio lavoro come consulente globale in 
 * [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it)
 * [Exchange CryptoSmart](http://www.cryptosmart.it)
 
+Per contattarmi direttamente:
+
+* filippo@completservice.eu
+* filippo@bitcoinvenetocenter.it
+* +39 350 511 2899
+* albertin@tuta.io (per consulenze private)
+
 ## Servizi
 
 * Operazioni e investimenti in e con asset digitali (Bitcoin in primis) tra Italia e Svizzera
 * Formazione e training in fin-tech e blockchain applicata
 * Relocation aziendale in Ticino
 * Investimenti in mining Bitcoin certificati
-
-Per contattarmi:
-
-* filippo@completservice.eu
-* filippo@bitcoinvenetocenter.it
-* +39 350 511 2899
-* albertin@tuta.io (per consulenze private)
 
 ## Hardware e software
 

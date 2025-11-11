@@ -11,3 +11,4 @@ Per contattarmi:
 * filippo@completservice.eu
 * filippo@bitcoinvenetocenter.it
 * +39 350 511 2899
+* albertin@tuta.io (per consulenze private)

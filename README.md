@@ -34,3 +34,5 @@ I miei recapiti *classici* sono legati al mio lavoro come consulente globale in 
 * HP Chromebook
 * Compaq laptop EndeavourOS (Arch Linux)
 * MacBook Air Retina
+
+[Questa pagina è anche presente come git page.](https://applephil75.github.io/)
